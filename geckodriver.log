@@ -1,0 +1,9 @@
+1607800195247	geckodriver	INFO	Listening on 127.0.0.1:56443
+1607800195256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLcpb5k"
+Exiting due to channel error.
+Exiting due to channel error.
+1607800233708	geckodriver	INFO	Listening on 127.0.0.1:55897
+1607800233718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewPLWYV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607800239221	Marionette	INFO	Listening on port 36613
+1607800239359	Marionette	WARN	TLS certificate errors will be ignored for this session
