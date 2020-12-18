@@ -5,6 +5,7 @@ from selenium import webdriver
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'superlist.settings')
 
+
 @pytest.fixture()
 def ui_browser():
     """Подключение к БД перед тестами, отключение после."""
